@@ -1,0 +1,32 @@
+* {
+  text-align: center;
+  font-family: "Great Vibes", cursive;
+  font-size: 20px;
+}
+body {
+  border: 2px solid black;
+  background: linear-gradient(blue, white);
+}
+h1 {
+  color: wheat;
+  font-size: 40px;
+  padding-top: 5px;
+}
+h2 {
+  color: white;
+  font-size: 30px;
+}
+p {
+  border: 2px solid black;
+  margin-left: 80px;
+  margin-right: 80px;
+  border-radius: 5px 15px;
+  padding: 5px;
+}
+.List {
+  border: 2px solid black;
+  margin: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 50px;
+}
